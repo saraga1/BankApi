@@ -1,0 +1,10 @@
+dev/araga/utiltests/ConnectionTest.java
+ dev.araga.utiltests.ConnectionTest
+dev/araga/daotests/ClientDaoTest.java
+ dev.araga.daotests.ClientDaoTest
+dev/araga/servicetests/ClientServiceTest.java
+ dev.araga.servicetests.ClientServiceTest
+dev/araga/servicetests/AccountServiceTest.java
+ dev.araga.servicetests.AccountServiceTest
+dev/araga/daotests/AccountDaoTest.java
+ dev.araga.daotests.AccountDaoTest
