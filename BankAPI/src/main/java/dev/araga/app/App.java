@@ -28,8 +28,8 @@ public class App {
         app.get("/clients/:id2/accounts/:id", accountController.getAccountByIdHandler);
         app.put("/clients/:id2/accounts/:id", accountController.updateAccountHandler);
         app.delete("/clients/:id2/accounts/:id", accountController.deleteAccountHandler);
-
-
+        
+        //Starts the app
         app.start();
 
     }
