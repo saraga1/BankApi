@@ -8,7 +8,7 @@ public class ConnectionUtil {
 
     public static Connection createConnection(){
 
-        String details = "jdbc:postgresql://34.67.137.97:5432/BankAPIDB?user=Samuel&password=quest456";
+        String details = environmentVariable;
 
         try {
             Connection conn = DriverManager.getConnection(details);
